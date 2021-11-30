@@ -1,0 +1,19 @@
+body {
+    background-color: coral;
+    margin-top: 300px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.box {
+    border: solid white 5px;
+    width: 800px;
+    height: 100px;
+    /* margin-left: 400px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
